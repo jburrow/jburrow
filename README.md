@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @jburrow
-- 👀 I’m interested in python developer tooling
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate ...
+- 👀 I’m interested in developer tooling (primarily around the python)
 
 <!---
 jburrow/jburrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
